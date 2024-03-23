@@ -8,3 +8,6 @@ table{
 table th{
     border: 2px black;
 }
+.form-group {
+    margin-bottom: 20px;
+}
